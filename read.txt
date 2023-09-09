@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 0C4D-41B0
+
+ Directory of C:\Users\alvac\OneDrive\Desktop\java
+
+09-09-2023  11.46 AM    <DIR>          .
+09-09-2023  09.44 AM    <DIR>          ..
+09-09-2023  09.49 AM               479 helloworld.class
+09-09-2023  09.48 AM               132 helloworld.java
+09-09-2023  11.46 AM                 0 read.txt
+               3 File(s)            611 bytes
+               2 Dir(s)  116,463,984,640 bytes free
